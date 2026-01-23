@@ -7,5 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Updated `README.md`, `CONTRIBUTING.md`, and the templates to direct people
+  away from this (Compact release) repository and toward the Compact source
+  repository at https://github.com/LFDT-Minokawa/compact.
+
 - Updated `prerelease/README.md` to include the devtools-friendly installation
   instructions.
