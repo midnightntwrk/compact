@@ -5,6 +5,10 @@ These are versions that are publicly available but not yet ready to install via 
 
 **Prerelease versions are intended for users who really, really need to test an about-to-be-released version of the toolchain.**
 If you are not such a user, you should stick to officially released (and supported) versions that can be installed via the devtools.
+Prerelease versions do not necessarily work with the publicly available blockchain.
+
+These prereleases are provided without release notes.
+You can read the [changelog file](https://github.com/LFDT-Minokawa/compact/blob/main/CHANGELOG.md) in the Compact source code repository to see what is in a prerelease version.
 
 ## Versions
 
