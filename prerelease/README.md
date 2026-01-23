@@ -35,7 +35,7 @@ To install a prerelease version for devtools, follow the manual installation pro
    If you are not sure about the platform name, look at how it is spelled for some of the officially released versions.
 
 1. Unzip the downloaded binary in this new directory.
-   For example, continuing ith 0.27.0-rc.1 for Apple silicon macOS (and the version downloaded to `Downloads` in your home directory):
+   For example, continuing with 0.27.0-rc.1 for Apple silicon macOS (and the version downloaded to `Downloads` in your home directory):
    ```
    unzip ~/Downloads/compactc_v0.27.0-rc.1_aarch64-darwin.zip -d ~/.compact/versions/0.27.0-rc.1/aarch64-darwin
    ```
