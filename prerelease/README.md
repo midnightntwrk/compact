@@ -61,4 +61,4 @@ Scroll down to the bottom of the settings and you will see, for example, `"compa
 Click "Allow Anyway".
 ![Screenshot showing the location of the button.](allow-anyway.png)
 
-You will have to do this for each binary (note that the compiler binary automatically invokes the `zkir` binary if it needs to generate keys).
+You will have to do this for each binary the first time you use it (note that the compiler binary automatically invokes the `zkir` binary if it needs to generate keys).
