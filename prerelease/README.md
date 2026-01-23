@@ -1,7 +1,7 @@
 # Compact Toolchain Prereleases
 
 This directory contains prerelease versions of the Compact toolchain, which includes the Compact compiler.
-These are versions that are publicly available but not yet ready to install via the Compact devtools (the `compact` command-line tool).
+These are versions that are publicly available but not yet ready to install via the Compact developer tools (or "devtools", the `compact` command-line tool).
 
 **Prerelease versions are intended for users who really, really need to test an about-to-be-released version of the toolchain.**
 If you are not such a user, you should stick to officially released (and supported) versions that can be installed via the devtools.
@@ -19,7 +19,7 @@ and x86-64 macOS (`x86_64-darwin`).
 ## Installation Instructions
 
 Prerelease versions are provided as platform specific `.zip` files.
-You can download and unzip this anywhere, but it's simplest to let the Compact developer tools (devtools) manage it as a version that the devtools can switch to.
+You can download and unzip this anywhere, but it's simplest to let the Compact devtools manage it as a version that you can switch to.
 To install a prerelease version for devtools, follow the manual installation process:
 
 1. Download the `.zip` file for your architecture and OS using the "Download raw file" button in the GitHub UI.
