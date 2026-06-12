@@ -1,3 +1,12 @@
+> # ⚠️ This repository is archived
+>
+> `midnightntwrk/compact` only hosted Compact release artifacts and is **no longer maintained**.
+> Active development, issues, and contributions live at
+> **➡️ [LFDT-Minokawa/compact](https://github.com/LFDT-Minokawa/compact)** — the
+> [Linux Foundation Decentralized Trust](https://www.lfdecentralizedtrust.org/) project for Compact.
+>
+> This repo remains read-only for historical release artifacts.
+
 # Compact
 
 Compact is the Midnight Network's smart contract language.
