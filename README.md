@@ -3,6 +3,8 @@
 Compact is the Midnight Network's smart contract language.
 This repository is only used to host Compact releases.
 
+**Documentation:** https://docs.midnight.network/compact
+
 ## Contributing to Compact
 
 The project welcomes contributions.
